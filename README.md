@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=billzinga&label=Profile%20views&color=0e75b6&style=flat" alt="billzinga" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=billzinga" alt="billzinga" /></a> </p>
+
 - 🔭 I’m currently working on [Kangaeru.co](https://kangaeru.co/)
 
 - 🌱 I’m currently learning **React.js**
@@ -15,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/bill-yu-6b9a084a/](https://www.linkedin.com/in/bill-yu-6b9a084a/)
 
-- ⚡ Fun fact **I play basketball and golf when I have the free time**
+- ⚡ Fun fact **Part-time foodie**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
