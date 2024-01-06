@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=billzinga&label=Profile%20views&color=0e75b6&style=flat" alt="billzinga" /> </p>
 
-- 🔭 I’m currently working on [Rails Instagram]([https://kangaeru.co/](https://github.com/Billzinga/instagram_rails))
+- 🔭 I’m currently working on [Rails Instagram](https://github.com/Billzinga/instagram_rails)
 
 - 🌱 I’m currently learning **React.js**
 
