@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/bill-yu-6b9a084a/](https://www.linkedin.com/in/bill-yu-6b9a084a/)
 
-- ⚡ Fun fact **Part-time foodie**
+- ⚡ Fun fact **Part-time foodie weekend basketball player and golfer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
