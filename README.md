@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=billzinga&label=Profile%20views&color=0e75b6&style=flat" alt="billzinga" /> </p>
 
-- 🔭 I’m currently working on [Kangaeru.co](https://kangaeru.co/)
+- 🔭 I’m currently working on [Rails Instagram]([https://kangaeru.co/](https://github.com/Billzinga/instagram_rails))
 
 - 🌱 I’m currently learning **React.js**
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/bill-yu-6b9a084a/](https://www.linkedin.com/in/bill-yu-6b9a084a/)
 
-- ⚡ Fun fact **Part-time foodie weekend basketball player and golfer**
+- ⚡ Fun fact **Part-time foodie weekend golfer and basketball player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
